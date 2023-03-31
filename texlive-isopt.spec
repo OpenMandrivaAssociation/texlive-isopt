@@ -1,6 +1,6 @@
 Name:		texlive-isopt
 Version:	45509
-Release:	1
+Release:	2
 Summary:	Writing a TeX length with a space between number and unit
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/isopt
