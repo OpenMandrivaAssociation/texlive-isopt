@@ -3,7 +3,7 @@ Version:	45509
 Release:	2
 Summary:	Writing a TeX length with a space between number and unit
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/isopt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/isopt
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/isopt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/isopt.doc.r%{version}.tar.xz
